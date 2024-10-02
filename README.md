@@ -54,7 +54,32 @@ Je me concentre sur l'amélioration de mes compétences en front-end, telles que
 Appliquer ma combinaison unique de compétences créatives et techniques pour développer des solutions qui font la différence, transformant des idées complexes en expériences simples et intuitives.
 
 </details>
+---
+<details>
+<summary>🇪🇸 Versión en Español</summary>
 
+# 👋 ¡Hola! Soy Alessandra Mairis
+
+A lo largo de mi carrera, siempre me he guiado por una pasión por la innovación y la resolución de problemas.
+
+## 💼 Mi Trayectoria
+- **Diseñadora Gráfica**: Comencé mi trayectoria en el diseño gráfico, trabajando como freelance y ayudando a empresas y clientes a construir identidades visuales impactantes. Esta experiencia me enseñó la importancia de la comunicación visual y la creatividad en todas las áreas.
+- **Ingeniería de Producción Mecánica**: Luego, decidí explorar el mundo de la ingeniería de producción mecánica, trabajando en la industria cementera. Desarrollé una sólida base técnica y habilidades analíticas, especialmente en el uso avanzado de Excel y la creación de presentaciones de alto impacto en PowerPoint, contribuyendo a mejorar procesos y resultados.
+- **Ingeniería de Front-end**: Actualmente, estoy en transición hacia la ingeniería de front-end, buscando combinar mi experiencia en diseño y en ingeniería para crear soluciones tecnológicas intuitivas y eficientes.
+
+## 🔧 Habilidades
+- **Diseño**: Identidad Visual, Adobe Illustrator, Photoshop
+- **Ingeniería de Producción**: Procesos Industriales, Excel Avanzado, Análisis de Datos
+- **Tecnología**: HTML, CSS, JavaScript, jQuery, CSS Responsivo, Bootstrap
+
+## 🌱 Lo que estoy aprendiendo actualmente
+Me estoy enfocando en mejorar mis habilidades en front-end, como JavaScript y frameworks como React, con el objetivo de desarrollar interfaces que ofrezcan la mejor experiencia de usuario.
+
+## 🚀 Objetivo
+Aplicar mi combinación única de habilidades creativas y técnicas para desarrollar soluciones que marquen la diferencia, transformando ideas complejas en experiencias simples e intuitivas.
+
+</details>
+---
 
 Ao longo da minha carreira, sempre fui guiada por uma paixão pela inovação e pela resolução de problemas.
 
