@@ -31,7 +31,7 @@ To apply my unique combination of creative and technical skills to develop solut
 ---
 
 <details>
-<summary> fr Version Française</summary>
+<summary> 🇫🇷 Version Française</summary>
 
 # 👋 Bonjour! Je suis Alessandra Mairis
 
